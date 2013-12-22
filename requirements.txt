@@ -1,0 +1,6 @@
+argparse==1.2.1
+beautifulsoup4==4.3.2
+functional==0.4
+pp==1.6.4
+urwid==1.1.1
+wsgiref==0.1.2

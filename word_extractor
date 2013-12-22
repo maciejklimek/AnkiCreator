@@ -1,0 +1,2 @@
+#!/bin/bash
+cat $1 | aspell clean 2> /dev/null | ./filter_words.py | sort | uniq
